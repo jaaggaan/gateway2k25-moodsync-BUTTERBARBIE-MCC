@@ -25,7 +25,7 @@ Tools and Technologies Used
 Installation Guide
 To run the MoodSync application locally, follow these steps:
 1. Clone the repository:
-   git clone https://github.com/jaaggaan/gateway2k25-moodsync-BUTTERBARBIE-MCC.git>
+   git clone https://github.com/jaaggaan/gateway2k25-moodsync-BUTTERBARBIE-MCC
 2. Navigate to the project directory:
    cd moodsync
 3. Install the required dependencies:
